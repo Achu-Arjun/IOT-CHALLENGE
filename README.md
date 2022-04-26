@@ -1,6 +1,6 @@
 # IOT-CHALLENGE
 # IOTLevel-1
-> My name is Arjun B S . I am studying BTech (Bachelor of Technology)in Electrical and Electronics Engineering Third Year <br>
+> My name is Arjun B S . I am studying BTech (Bachelor of Technology)in Electronics and Communication Engineering Third Year <br>
 > at Trinity College of Engineering,Trivandrum .
 >
 >  The following are the IOT experiments and assignments I have done as part of the Kerala IOT<br> 
